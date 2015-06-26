@@ -1,0 +1,8 @@
+tkp>=2.0
+ipython>3.0
+tornado>=4.0
+jsonschema
+terminado
+#matplotlib
+#pyfits
+#aplpy
