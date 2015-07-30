@@ -1,4 +1,5 @@
 tkp>=2.0
+pyzmq
 ipython>3.0
 tornado>=4.0
 jsonschema
