@@ -1,9 +1,4 @@
-tkp>=2.0
-pyzmq
-ipython>3.0
-tornado>=4.0
-jsonschema
-terminado
-#matplotlib
-#pyfits
-#aplpy
+notebook
+tkp>=3.0
+astropy
+matpotlib
